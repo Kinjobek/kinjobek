@@ -1,4 +1,19 @@
-### Hi there 👋
+# Assalomu alaykum!
+
+I'm Sarvarbek, a financial analyst [website](https://sarvarnazarov.me).
+
+## My Projects
+
+	@@ -12,6 +12,8 @@ And see more projects on this GitHub profile!
+
+## Courses I've Created at Harvard
+
+Before joining Automattic, I was a Senior Preceptor teaching computer science at [Harvard University](https://www.harvard.edu). While at Harvard, I created the following courses.
+
+* [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai)
+* [Web Programming with Python and JavaScript](https://cs50.harvard.edu/web)
+* [Introduction to Programming with Scratch](https://cs50.harvard.edu/scratch)
+
 
 <!--
 **Kinjobek/kinjobek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
