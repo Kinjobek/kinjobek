@@ -2,11 +2,18 @@
 
 I'm Sarvarbek, a financial analyst [website](https://sarvarnazarov.me).
 
-## My Projects
+## Some facts about me
 
-	@@ -12,6 +12,8 @@ And see more projects on this GitHub profile!
+* 🔭 I’m currently working on Economics and finance with Justice.
+* 🌱 I’m currently learning Opevcv Medaipipe with python.
+* 👯 I’m looking to collaborate on translation of all libs of python into uzbek  
+* 🤔 I’m looking for help with these
+* 💬 Ask me about my interests
+* 📫 How to reach me: https://sarvarnazarov.me
+* 😄 Pronouns: vuhuv
+* ⚡ Fun fact: 1991/09/01
 
-## Courses I've Created at Harvard
+## Courses I've Created at Udemy
 
 Before joining Automattic, I was a Senior Preceptor teaching computer science at [Harvard University](https://www.harvard.edu). While at Harvard, I created the following courses.
 
@@ -20,12 +27,5 @@ Before joining Automattic, I was a Senior Preceptor teaching computer science at
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Economics and finance with Justice.
-- 🌱 I’m currently learning Opevcv Medaipipe with python.
-- 👯 I’m looking to collaborate on translation of all libs of python into uzbek  
-- 🤔 I’m looking for help with these
-- 💬 Ask me about my interests
-- 📫 How to reach me: https://sarvarnazarov.me
-- 😄 Pronouns: vuhuv
-- ⚡ Fun fact: 1991/09/01
+
 -->
