@@ -1,19 +1,17 @@
 # Assalomu alaykum!
 
-I'm Sarvarbek and newbie to here. [My website](https://sarvarnazarov.me).
+Name: Sarvar. [My website](https://sarvarnazarov.me).
 
-## Some facts about me
+## decency is key!
 
-* 🔭 I’m currently working on Justice in Economics and Finance for humankind.
-* 🌱 I’m currently learning OpevCV, Mediapipe.
-* 👯 I’m looking to collaborate on translation of all libs of python into uzbek.
-* 🤔 I’m looking for help with these.
-* 💬 Ask me about my interests.
-* 📫 How to reach me: [here](https://sarvarnazarov.me).
-* 😄 Pronouns: vuhuv
-* ⚡ Fun fact: 1991/09/01
+* 🔭 working on Justice in Economics and Finance for humankind.
+* 🌱 learning python, DS, AI, ML, DL, OpevCV, Mediapipe.
+* 👯 looking to collaborate on translation of all useful materials of python into uzbek.
+* 💬 my interests: tennis, archery, books
+* 😄 Pronouns: vuhuv.com
+* ⚡ Fun fact: 1991/09/01 ind.
 
-Before coming to İstanbul University, I was a devision director of Risk Management Department at [Kapitalbank](https://www.kapitalbank.uz). While at Kapitalbank, I created new style online dashboard tables for management board and make analytical tables for international rating agencies.
+PhD cand at İÜ, MSc at DEÜ, BSC at TFI, FRM enthusiast.
 
 <p align="center"><img width="50%" src="https://pbs.twimg.com/profile_banners/91955244/1616439317/1500x500" /></p>
 
